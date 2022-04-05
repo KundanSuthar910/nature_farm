@@ -36,7 +36,8 @@ Nature Farm gives details about Map, Weather and Crop Price . It allows the farm
 
 
 ## Screenshot of the Project 
-
+![](https://github.com/KundanSuthar910/nature_farm/blob/main/Read_meimage/home.png)
+![](https://github.com/KundanSuthar910/nature_farm/blob/main/Read_meimage/mappage.png)
 ![](https://github.com/KundanSuthar910/nature_farm/blob/main/Read_meimage/Contactus.png)
 
 ## Youtube Link 
