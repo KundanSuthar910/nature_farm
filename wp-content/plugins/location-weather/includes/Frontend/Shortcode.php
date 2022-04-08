@@ -91,6 +91,9 @@ class Shortcode {
 		switch ( $weather_by ) {
 			case 'city_name':
 				$city  = isset( $splw_meta['lw-city-name'] ) ? $splw_meta['lw-city-name'] : '';
+				if (isset($_GET['location_search']) && !empty($_GET['location_search'])) {
+				 $city = trim($_GET['location_search']);
+				}
 				$query = ! empty( $city ) ? trim( $city ) : 'london';
 				break;
 		}
