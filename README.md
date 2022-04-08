@@ -14,6 +14,8 @@ Nature Farm gives details about Map, Weather and Crop Price . It allows the farm
 - We also use Plugins in our website such as Map plugin and Weather Plugin.
 - We link our site to another site through the link. 
 - My SQL used for Database as a Backend.
+- Frontend and Backend are widely used.
+- Programming languages used HTML , CSS , Javascript , PHP. 
  2. EXPLAINATION :
  - Map plugin is used to see area of the users and the fields of the users. 
  - Weather plugin is used to see the overall climate of the year so the farmer can save their crops from the Hazardous climate such as from  Rainy season.
@@ -42,5 +44,8 @@ Nature Farm gives details about Map, Weather and Crop Price . It allows the farm
 ![](https://github.com/KundanSuthar910/nature_farm/blob/main/Read_meimage/Contactus.png)
 
 
+
 ## Youtube Link 
+
+
 https://youtu.be/ARcNKMlOSfw
